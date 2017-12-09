@@ -1,0 +1,5 @@
+Get content of a file in a public repositories 
+ curl -i https://api.github.com/repositories/89581670/contents/Button/src/App.js --header "Accept: application/vnd.github.3.raw"
+
+ Get json with caracteristics
+https://api.github.com/repositories/89581670/contents/Button/src/App.js
